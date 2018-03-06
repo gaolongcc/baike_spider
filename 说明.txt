@@ -1,0 +1,16 @@
+python2.7
+
+pycharm 2017.3
+
+
+实现一个简单的爬虫
+
+目标："https://baike.baidu.com/item/Python/407313"
+提取： 
+#<dd class="lemmaWgt-lemmaTitle-title"><h1>Python</h1>
+#<div class="lemma-summary" label-module="lemmaSummary"><div class="para" label-module="para">
+1、url
+2、标题
+3、摘要
+
+
